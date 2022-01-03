@@ -18,5 +18,13 @@
     "sequelize": "^6.8.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-dodge/sql-solution.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daniel-dodge/sql-solution/issues"
+  },
+  "homepage": "https://github.com/daniel-dodge/sql-solution#readme",
   "description": ""
 }
